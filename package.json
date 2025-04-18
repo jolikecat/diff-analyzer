@@ -1,0 +1,9 @@
+{
+	"private": true,
+	"scripts": {
+		"diff": "node diff-analyzer.js"
+	},
+	"volta": {
+		"node": "22.14.0"
+	}
+}
